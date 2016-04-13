@@ -1,0 +1,14 @@
+{
+  "name": "benningm-docker_bamberg",
+  "version": "0.1.0",
+  "author": "benningm",
+  "summary": "a example puppet configuration for Test-Driven Infrastructure",
+  "license": "Apache 2.0",
+  "source": "https://github.com/benningm/puppet-docker_bamberg",
+  "project_page": "https://github.com/benningm/puppet-docker_bamberg",
+  "issues_url": "https://github.com/benningm/puppet-docker_bamberg/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
