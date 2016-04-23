@@ -26,4 +26,5 @@
 #
 class docker_bamberg {
   include docker_bamberg::content
+  include docker_bamberg::webserver
 }
