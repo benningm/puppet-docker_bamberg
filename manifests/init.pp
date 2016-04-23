@@ -25,4 +25,5 @@
 # Copyright 2016 Markus Benning
 #
 class docker_bamberg {
+  include docker_bamberg::content
 }
